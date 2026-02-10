@@ -4,10 +4,10 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Snowflake Kernel by RainZ
-kernel.compiler=Android clang 20.0.0
-kernel.made=RainZ
-message.word=Thx for installing Snowflake Kernel
+kernel.string=Snowflake-Revived Kernel by Chronix
+kernel.compiler=Proton Clang
+kernel.made=Chronix
+message.word=Thx for installing Snowflake Kernel , Thanks Rainz For Snowflake
 do.devicecheck=1
 do.cleanup=1
 device.name1=violet
