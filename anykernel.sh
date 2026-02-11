@@ -4,10 +4,10 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Snowflake-Revived Kernel by Chronix
-kernel.compiler=Proton Clang
+kernel.string=Catalyst Kernel by Chronix
+kernel.compiler=Crdroid Clang 20
 kernel.made=Chronix
-message.word=Thx for installing Snowflake Kernel , Thanks Rainz For Snowflake
+message.word=Thx for installing Catalyst Kernel 
 do.devicecheck=1
 do.cleanup=1
 device.name1=violet
